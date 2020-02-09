@@ -1,0 +1,6 @@
+projectKey=ShahbaziAvarvandUb2
+serverUrl=http://localhost:9000
+serverVersion=8.1.0.31237
+dashboardUrl=http://localhost:9000/dashboard?id=ShahbaziAvarvandUb2
+ceTaskId=AXAmDXXE0q4fbIGVRrnr
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXAmDXXE0q4fbIGVRrnr
