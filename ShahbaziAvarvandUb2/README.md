@@ -4,7 +4,7 @@ On the other window you can see your BMI categorie
 
 # Tasks
 ## UML diagrams
-- [class diagram](./ShahbaziAvarvandUb2/Proofs/class%20diagram.png):shows the structure of the two main classes used for this program: Hauptfenster and Ausgabepanel.
+- [class diagram](./Proofs/class%20diagram.png):shows the structure of the two main classes used for this program: Hauptfenster and Ausgabepanel.
 Also the test class can be seen.
 - [use case diagram](./ShahbaziAvarvandUb2/Proofs/UseCaseDiagram.png):shows how the script runs and what the expected result is
 - [activity diagram](./ShahbaziAvarvandUb2/Proofs/Aktivitätsdiagram.png):shows the activities that are involved in this program
